@@ -1,6 +1,6 @@
 # quiz_app
 
-Bu proje, Flutter kullanılarak geliştirilen bir quiz uygulamasıdır.
+Bu proje, Flutter kullanılarak geliştirilen bir quiz uygulamasıdır...
 
 ## Başlarken
 
